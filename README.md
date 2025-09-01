@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @K3v3l3ctro
 - 👀 I’m interested in learning to code to make apps, games, parental control type programs.
 - 🌱 I’m currently learning Linux Debian
-- 💞️ I’m looking to collaborate on IDK if anyone wants me to collab with them or not! I am a SUPER noob with all of this.
-- 📫 How to reach me Kevelectro@gmail.com
+- 💞️ IDK if anyone wants me to collab with them or not! I am a SUPER noob with all of this.
+- 📫 Drop a line to Kevelectro@gmail.com if you've any comment, questions, or concerns! 
+- 👷‍♀️ Current projects I'm working on are an AI race assistant for Gran Turismo 4 on the MIST AMAZING PS2 emulator, PCSX2! Also, Im working on an OBD2 scanner. Both projects are of personal interest to me and very special being my first 2 solo projects! 
 
 <!---
 K3v3l3ctro/K3v3l3ctro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
